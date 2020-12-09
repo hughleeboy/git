@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/untitled.dir/main.cpp.o  -o untitled  -Wl,-rpath,/home/baby/CLionProjects/untitled/libs/libgit2-1.1.0/build ../libs/libgit2-1.1.0/build/libgit2.so 
